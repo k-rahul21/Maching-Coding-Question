@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  display: flex;
+  min-height: 100vh;
+  text-align: center;
+  flex-direction: column;
+}
+
+header, footer {
+  background-color: black;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex: 1;
+}
+
+.main-content {
+  flex: 1;
+  padding: 20px 0;
+  background-color: beige;
+}
+
+.sidebar {
+  width: 200px;
+  padding: 20px 0;
+}
+
+.left-sidebar {
+  background-color: bisque;
+}
+
+.right-sidebar {
+  color: #fff;
+  background-color: rgb(163, 92, 6);
+}
+
+@media screen and (max-width: 480px) {
+  .container {
+    flex-direction: column;
+  }  
+
+  .sidebar {
+    width: 100%;
+  }
+}
+
