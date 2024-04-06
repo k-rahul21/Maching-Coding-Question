@@ -1,6 +1,6 @@
 # Tabs
 
-## Create a simple tabbed interface using Vanilla JavaScript, HTML and CSS. The tabs should switch content when clicked and have a visual indication for the active tab. Design the structure and functionality of these tabs.
+Create a simple tabbed interface using Vanilla JavaScript, HTML and CSS. The tabs should switch content when clicked and have a visual indication for the active tab. Design the structure and functionality of these tabs.
 
 ### Requirments:
 - Create Three tabs labeled "Tab 1," "Tab 2," and "Tab 3".
