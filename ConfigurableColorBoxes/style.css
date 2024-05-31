@@ -1,0 +1,28 @@
+.parent-container {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.input-section {
+  align-self: center;
+}
+
+.colorInput,
+.widthInput,
+.btn {
+  margin: 10px;
+  padding: 5px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.box {
+  margin-bottom: 10px;
+  height: 150px;
+  cursor: pointer;
+}
