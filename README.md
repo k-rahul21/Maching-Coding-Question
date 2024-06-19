@@ -19,5 +19,5 @@
 
 ### Configurable Color Boxes
 
-- Problem StatementL [README File]()
-- Code: [Github Configurable Color Boxes]()
+- Problem StatementL [README File](https://github.com/k-rahul21/Maching-Coding-Question/blob/main/ConfigurableColorBoxes/README.md)
+- Code: [Github Configurable Color Boxes](https://github.com/k-rahul21/Maching-Coding-Question/tree/main/ConfigurableColorBoxes)
