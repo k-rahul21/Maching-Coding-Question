@@ -1,0 +1,57 @@
+.main-container,
+.chips-display ,
+.chips-container{
+  display: flex;
+}
+
+.main-container,
+.chips-container {
+  align-items: center;
+
+}
+.main-container {
+  justify-content: center;
+  height: 200px;
+  flex-direction: column;
+}
+
+.chips-input-container input{
+  width: 20vw;
+  padding: 5px;
+  margin-bottom: 5px;
+} 
+
+.chips-input-container p {
+  color: red;
+  margin: 0;
+}
+
+.chips-display {
+  gap: 5px;
+  padding: 10px;
+  display: flex;
+  flex-wrap: nowrap;
+  border: 1px solid;
+  flex-direction: row;
+}
+
+.chips-container {
+  border: 1px solid gray;
+  border-radius:  5rem;
+  padding: 8px 15px 8px 10px;
+  width: fit-content;
+  gap: 10px;
+}
+
+.chips-container p,
+button {
+  margin: 0;
+}
+
+button {
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+  
